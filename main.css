@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+div {
+    /* border: 1px solid black; */
+    float: left;
+}
+
+.col1 {
+    background-color: aliceblue;
+    height: 100vh;
+    width: 20%;
+}
+
+.col2 {
+    background-color: yellow;
+    /* height: 100vh; */
+    width: 40%;
+}
+
+.col3 {
+    background-color: white;
+    height: 100vh;
+    width: 20%;
+}
+
+.col4 {
+    height: 100vh;
+    width: 20%;
+}
+
+.col41 {
+    background-color: red;
+    height: 50vh;
+    width: 100%;
+    overflow: scroll;
+}
+
+.col42 {
+    background-color: green;
+    height: 50vh;
+    width: 100%;
+    overflow: scroll;
+}
